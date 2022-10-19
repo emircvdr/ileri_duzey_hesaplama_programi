@@ -1,6 +1,6 @@
 Merhaba.
 Çok basic kodlarla ileri düzey hesaplama yapabileceğiniz bir program yazdım.
-Programın içerisinde faktoriyel alma, en büyük en küçük en yakın sayıya yuvarlama, karesini-kübünü alma, permütasyonunu bulma, istediğiniz tabanda log alarak hesaplama yapabilirsiniz.
+Programın içerisinde faktoriyel alma, en büyük en küçük en yakın sayıya yuvarlama, karesini-kübünü alma, permütasyonunu bulma, 10 tabanında,2 tabanında ve  istediğiniz tabanda log alarak hesaplama yapabilirsiniz.
 
 
 
